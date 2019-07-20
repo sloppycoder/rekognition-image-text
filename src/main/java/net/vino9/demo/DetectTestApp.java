@@ -10,7 +10,7 @@ import java.util.List;
 public class DetectTestApp {
 
     public static void main(String[] args) throws Exception {
-        runDetectTextOnImage("inputtext.jpg", "bucket");
+        runDetectTextOnImage("vino9-test-bucket", "check2.png");
     }
 
     public static void runDetectTextOnImage(String bucket, String imageFile) {
